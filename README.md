@@ -19,7 +19,7 @@ The images shown below illustrate the difference in accuracy percentages for the
 
 ![accuracy_model_1](/Resources/accuracy_model_1.png)
 
-[accuracy_model_2](/Resources/accuracy_model_2.png)
+![accuracy_model_2](/Resources/accuracy_model_2.png)
 
 ## Summary 
 The results of the deep learning neural network model how that this is not the best model for this problem. After exploring various changes to improve the model the accuracy slightly improved. However, there are different tools that can be used to solve a binary classification problem, such as logistic regression, support vector machines, decision trees, and k-nearest neighbors. It is recommended that these models be used and evaluated for this dataset.
